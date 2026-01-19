@@ -224,8 +224,7 @@ server:
 ## 👨‍💻 Author
 
 **Ishan Ganguly**  
-**Student ID:** 24BCS10330  
-E-Commerce Backend API - Spring Boot + MongoDB Atlas Implementation
+**Student ID:** 24BCS10330
 
 ## 📄 License
 
